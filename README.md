@@ -12,9 +12,9 @@
 
 # 📝  Main Projects 📝
 
-[📄 BTC future / spot DB 구축 ](https://github.com/whyrinarichano/BTC_DB)
+[📄 <Papers> BTC future / spot DB 구축 ](https://github.com/whyrinarichano/BTC_DB)
 
-[📄 BTC trading AI model 개발](https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano)
+[📄 <Crame> BTC trading AI model 개발](https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano)
 
 
 
