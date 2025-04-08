@@ -11,7 +11,11 @@
 -->
 
 # 📝  Main Projects 📝
-[📑 보고서 열기](./reports/summary.pdf)
+
+
+[📑 xgboost 모델을 활용한 주가 상승 하락 예측 모델 발표 ](https://docs.google.com/presentation/d/1b8lmpaXrNVy6zdt4JhxjYY861bLzn2jp/edit?usp=sharing&ouid=111215975758966870085&rtpof=true&sd=true)
+
+[📄 보고서 열기](./reports/summary.pdf)
 
 
 
