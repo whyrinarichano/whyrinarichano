@@ -11,6 +11,7 @@
 -->
 
 # 📝  Main Projects 📝
+[📑 보고서 열기](./reports/summary.pdf)
 
 
 
