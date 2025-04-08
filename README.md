@@ -12,10 +12,24 @@
 
 # 📝  Main Projects 📝
 
-[📄 <Papers> BTC future / spot DB 구축 ](https://github.com/whyrinarichano/BTC_DB)
+<br>
 
-[📄 <Crame> BTC trading AI model 개발](https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano)
 
+## Papers
+[📄  BTC future / spot DB 구축 ](https://github.com/whyrinarichano/BTC_DB)
+  
+<br>
+
+## Crame
+[📄  BTC trading AI model 개발](https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano)
+
+<br>
+  
+## VIS LAB
+[📄 NLPCA 논문 분석 / VIS LAB ](https://great-route-c7b.notion.site/1be323fc6f11809fb352c73352913759)
+  
+
+<br>
 
 
 # 🏆  Projects 🏆
@@ -24,12 +38,18 @@
 [📄뉴스 감정 분석 LLM 모델을 활용한 국내 주식 시장 공포 탐욕 지수 / 🏆 KB 국민은행, 미래에셋증권](https://github.com/whyrinarichano/whyrinarichano/blob/main/%E1%84%86%E1%85%B5%E1%84%85%E1%85%A2%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A6%E1%86%BA%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%80%E1%85%AF%E1%86%AB%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf)
 
 
+<br>
+
+
 # 📝  Papers 📝
 [📄 강화학습 모델 하이퍼파라미터 튜닝을 위한 실험 보고서 제작 / 🎓 숭실대 딥러닝 수업](https://github.com/whyrinarichano/whyrinarichano/blob/main/reinforcement%20learning%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%90%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B5%E1%86%BCV2.pdf)
 
-[📄 NLPCA 논문 분석 / VIS LAB ](https://great-route-c7b.notion.site/1be323fc6f11809fb352c73352913759)
 
-[📄 TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning / 논문 번역](https://blog.naver.com/whyribamichano)
+[📄 TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning / 논문 번역](https://blog.naver.com/whyribamichano)  
+
+
+<br>
+
 
 <!--내용 부분-->
 # 🔨 Once I've used 🔨
