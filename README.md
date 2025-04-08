@@ -13,10 +13,11 @@
 # 📝  Main Projects 📝
 
 
-[📑 xgboost 모델을 활용한 주가 상승 하락 예측 모델 발표 ](https://docs.google.com/presentation/d/1b8lmpaXrNVy6zdt4JhxjYY861bLzn2jp/edit?usp=sharing&ouid=111215975758966870085&rtpof=true&sd=true)
+[📑 xgboost 모델을 활용한 주가 상승 하락 예측 모델 발표 / 🏆 숭실 XAI - 아카데미 우수상](https://docs.google.com/presentation/d/1b8lmpaXrNVy6zdt4JhxjYY861bLzn2jp/edit?usp=sharing&ouid=111215975758966870085&rtpof=true&sd=true)
 
-[📄 보고서 열기](./reports/summary.pdf)
+[📄뉴스 감정 분석 LLM 모델을 활용한 국내 주식 시장 공포 탐욕 지수 / 🏆 KB 국민은행, 미래에셋증권]()
 
+[📄 강화학습 모델 하이퍼파라미터 튜닝을 위한 실험 보도서 / 🎓 숭실대 딥러닝 수업]()
 
 
 <!--내용 부분-->
