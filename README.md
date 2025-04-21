@@ -20,7 +20,7 @@
 <br>
 
 ## Crame
-[📄  BTC trading AI model 개발](https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano)
+[📄  BTC trading AI model 개발]([https://github.com/CrameProject/AIModelling/tree/xgboost_whyribamichano](https://github.com/CrameProject/AIModelling/tree/ch_backtest))
 
 <br>
   
