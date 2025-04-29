@@ -26,6 +26,8 @@
   
 ## VIS LAB
 [📄 NLPCA 논문 분석 / VIS LAB ](https://great-route-c7b.notion.site/1be323fc6f11809fb352c73352913759)
+
+[📄 TS2VEC 논문 분석 / VIS LAB](https://docs.google.com/presentation/d/1dsIFdTANq3bFNPwoHsJB9yb6d1wiX-E25Vxeu7CZjGg/edit?usp=sharing)
   
 
 <br>
