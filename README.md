@@ -46,7 +46,7 @@
 [📄 주식 트레이딩 강화학습 모델 하이퍼파라미터 튜닝을 위한 실험 보고서 제작 / 🎓 숭실대 딥러닝 수업](https://github.com/whyrinarichano/whyrinarichano/blob/main/reinforcement%20learning%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%90%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B5%E1%86%BCV2.pdf)
 
 
-[📄 TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning / 논문 번역]([https://blog.naver.com/whyribamichano](https://blog.naver.com/whyribamichano/223714673308))  
+[📄 TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning / 논문 번역](https://blog.naver.com/whyribamichano/223714673308)  
 
 
 <br>
