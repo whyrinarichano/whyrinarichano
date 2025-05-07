@@ -14,7 +14,7 @@
 
 <br>
 
-## Papers
+## Quant - Papers 동아리
 [📄  BTC future / spot DB 구축 ](https://github.com/whyrinarichano/BTC_DB)
   
 <br>
@@ -28,7 +28,10 @@
 [📄 NLPCA 논문 분석 / VIS LAB ](https://great-route-c7b.notion.site/1be323fc6f11809fb352c73352913759)
 
 [📄 TS2VEC 논문 분석 / VIS LAB](https://docs.google.com/presentation/d/1dsIFdTANq3bFNPwoHsJB9yb6d1wiX-E25Vxeu7CZjGg/edit?usp=sharing)
-  
+
+[📄 2023 전력사용량 예측 AI 경진대회 : EDA 기술 설명 및 아이디어 발표 자료](https://docs.google.com/presentation/d/1syYWG1Sv8o7TZpAl3l8WkANc14u7CXLaWl8jLHGWjTc/edit?usp=sharing)
+[2023 전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/236125/overview/description)
+
 
 <br>
 
