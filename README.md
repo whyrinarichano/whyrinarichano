@@ -9,6 +9,17 @@
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 -->
+# 🧑🏻‍🏫  Current Education 🧑🏻‍🏫
+## KDA
+[📚DB For PostgreSQL 확장프로그램 설치 교육 자료](https://docs.google.com/presentation/d/1lR7yIw0LQOuz9kHIASAwIIi99Sdw9tN79J_D9i9lz9E/edit?usp=sharing)
+
+
+
+
+<br>
+
+
+
 
 # 📝  Main Projects 📝
 
@@ -40,6 +51,8 @@
 [👨🏼‍🏫 xgboost 모델을 활용한 주가 상승 하락 예측 모델 발표 / 🏆 숭실 XAI - 아카데미 우수상](https://docs.google.com/presentation/d/1b8lmpaXrNVy6zdt4JhxjYY861bLzn2jp/edit?usp=sharing&ouid=111215975758966870085&rtpof=true&sd=true)
 
 [📄뉴스 감정 분석 LLM 모델을 활용한 국내 주식 시장 공포 탐욕 지수 / 🏆 KB 국민은행, 미래에셋증권](https://github.com/whyrinarichano/whyrinarichano/blob/main/%E1%84%86%E1%85%B5%E1%84%85%E1%85%A2%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A6%E1%86%BA%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%80%E1%85%AF%E1%86%AB%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf)
+
+
 
 
 <br>
