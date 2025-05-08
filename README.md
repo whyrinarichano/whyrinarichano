@@ -11,6 +11,8 @@
 -->
 # 🧑🏻‍🏫  Current Education 🧑🏻‍🏫
 ## KDA
+[😺KDA git hub link](https://github.com/whyrinarichano/KDA_study/tree/main)
+
 [📚DB For PostgreSQL 확장프로그램 설치 교육 자료](https://docs.google.com/presentation/d/1lR7yIw0LQOuz9kHIASAwIIi99Sdw9tN79J_D9i9lz9E/edit?usp=sharing)
 
 
