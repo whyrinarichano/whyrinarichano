@@ -15,6 +15,8 @@
 
 [📄Stock_analysis - 공적분을 활용한 페어 트레이딩 전략 (5/14 카카오 종가 예측)](https://colab.research.google.com/drive/1eDBiN0xKKs7yBglbSrCBqwiHBfcUmIhy?usp=sharing)
 
+[A/B test 분석 및 실습](https://colab.research.google.com/drive/18LhPyH-oIX0d_-akXsIt7qExmLCG2sVD?usp=sharing)
+
 [✏️Postgress - SQL 쿼리문 이해와 연습 문제 풀이](https://docs.google.com/presentation/d/1x_5fQ3mjzRCJGU77pQwvDaBFIty_aB5VfTkbkR36ICQ/edit?slide=id.p#slide=id.p)
 
 
